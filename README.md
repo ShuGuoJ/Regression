@@ -4,6 +4,9 @@
 python 3.7  
 numpy 1.18  
 sklearn  
+# loss function
+# Linear Regression
+![image](image/1.gif)
 # Result
 线性回归  
 ![image](image/LinearRegression.png)
