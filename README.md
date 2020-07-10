@@ -6,13 +6,13 @@ numpy 1.18
 sklearn  
 # loss function
 # Linear Regression
-均方差：![image](image/1.gif)  
+均方差：![image](image/1.gif)    
 导数：![image](image/2.gif)
 # Logistic Regression
 交叉熵：![image](image/3.gif)
 倒数：![image](image/4.gif)
 # 线性方程
-其中![image](image/5.gif)
+其中![image](image/5.gif)  
 导数：  
 ![image](image/6.gif)  
 ![image](image/7.gif)
