@@ -6,5 +6,5 @@ numpy 1.18
 sklearn  
 # Result
 线性回归  
-#[!image]image/LinearRegression.png
+[!image](image/LinearRegression.png)
 逻辑回归  
