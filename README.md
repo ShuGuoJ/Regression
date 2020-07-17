@@ -20,4 +20,5 @@ sklearn
 线性回归  
 ![image](image/LinearRegression.png)
 逻辑回归  
-![image](image/LogisticRegression.png)
+![image](image/LogisticRegression.png)  
+
